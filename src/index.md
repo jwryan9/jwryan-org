@@ -11,4 +11,4 @@ I like to work on interesting problems with great teams.
 I have experience building web applications, cloud APIs, and data pipelines.
 
 Feel free to connect with me on [LinkedIn](linkedin.com/in/jason-ryan-758339b3).
-Or email me at [jwryan.org](mailto:jason@jwryan.org).
+Or email me at [jason@jwryan.org](mailto:jason@jwryan.org).
