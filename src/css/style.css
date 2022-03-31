@@ -37,7 +37,7 @@ nav ul li {
   padding: 0.5rem 1rem;
 }
 
-nav [aria-current="page"] {
+nav [aria-current='page'] {
   font-weight: bold;
 }
 
@@ -106,7 +106,7 @@ article img {
 
 /* Supporting Content */
 
-code:not([class*="language"]) {
+code:not([class*='language']) {
   font-family: Consolas, Monaco, Andale Mono, Ubuntu Mono, monospace;
   font-size: 1.75ex;
   color: #444;
