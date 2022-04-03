@@ -12,5 +12,5 @@ I have experience building web applications, cloud APIs, and data pipelines.
 
 In my freetime I enjoy snowboarding, fishing, and hanging out with my dog Harlow 🐕.
 
-Feel free to connect with me on [LinkedIn](linkedin.com/in/jason-ryan-758339b3).
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/jason-ryan-758339b3).
 Or email me at [jason@jwryan.org](mailto:jason@jwryan.org).
