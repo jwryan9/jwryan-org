@@ -1,13 +1,13 @@
 version: 2
 updates:
-  - package-ecosystem: "npm"
-    directory: "/"
+  - package-ecosystem: 'npm'
+    directory: '/'
     schedule:
-      timezone: "America/Chicago"
-      interval: "weekly"
-      day: "sunday"
+      timezone: 'America/Chicago'
+      interval: 'weekly'
+      day: 'sunday'
     reviewers:
-      - "jwryan9"
+      - 'jwryan9'
     labels:
-      - "type: dependabot"
-      - "status: todo"
+      - 'type: dependabot'
+      - 'status: todo'
