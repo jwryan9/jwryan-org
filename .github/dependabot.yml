@@ -8,6 +8,8 @@ updates:
       day: 'sunday'
     reviewers:
       - 'jwryan9'
+    assignees:
+      - 'jwryan9'
     labels:
       - 'type: dependabot'
       - 'status: todo'
