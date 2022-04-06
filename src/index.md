@@ -3,6 +3,8 @@ title: Jason Ryan
 layout: page.njk
 ---
 
+![Jason Ryan memoji]({{'./img/memoji.png'}})
+
 ## About
 
 Hello My name is Jason, I am a software engineer currently working for [Source Allies](https://www.sourceallies.com).
