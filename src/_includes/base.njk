@@ -16,7 +16,8 @@
       <div>
         <p>
           &copy; {% year %} {{ meta.siteName }}{% if meta.authorName %} • {{
-          meta.authorName }}{% endif %}
+          meta.authorName }}{% endif %}{%if meta.sourceCode %} •
+          <a href="{{meta.sourceCode}}">Source Code</a>{% endif %}
         </p>
       </div>
     </footer>
