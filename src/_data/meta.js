@@ -8,4 +8,5 @@ module.exports = {
   email: 'jason@jwryan.org',
   linkedinUrl: 'https://www.linkedin.com/in/jason-ryan-758339b3',
   githubUrl: 'https://github.com/jwryan9',
+  sourceCode: 'https://github.com/jwryan9/jwryan-org',
 };
