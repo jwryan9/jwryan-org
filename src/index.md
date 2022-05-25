@@ -7,8 +7,8 @@ layout: page.njk
 
 ## About
 
-Hello! My name is Jason, I am a software engineer currently working for [The Knot Worldwide](https://www.theknotww.com) .
-I like to work on interesting problems with great teams.
+Hello! My name is Jason, I am a software engineer currently working for [The Knot Worldwide](https://www.theknotww.com).
+I enjoy working on interesting problems with great teams.
 
 I have experience building web applications, cloud APIs, and data pipelines.
 
