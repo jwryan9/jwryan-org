@@ -19,7 +19,7 @@
     "@11ty/eleventy": "^2.0.1"
   },
   "devDependencies": {
-    "prettier": "3.2.5",
+    "prettier": "3.3.2",
     "husky": "^9.0.11"
   }
 }
