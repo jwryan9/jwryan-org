@@ -16,7 +16,7 @@
   "author": "Jason Ryan",
   "license": "ISC",
   "dependencies": {
-    "@11ty/eleventy": "^2.0.1"
+    "@11ty/eleventy": "^3.0.0"
   },
   "devDependencies": {
     "prettier": "3.3.3",
